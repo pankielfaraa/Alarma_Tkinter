@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import time
 
+#Ventana 
 
 ventana = tk.Tk()
 ventana.config(bg="black")
